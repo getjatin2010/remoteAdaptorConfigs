@@ -1,5 +1,5 @@
 sv_bank: 
- paymentMethod: Points
+ paymentMethod: jatin
  paymentSubMethod: FictiousPointBankRemoteChange
 deployment_config: 
  abcd: "http://chelgptsvs019:8082/fictiousPointBank/remote"
