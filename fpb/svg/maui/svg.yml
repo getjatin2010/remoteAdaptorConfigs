@@ -1,0 +1,5 @@
+sv_bank: 
+ paymentMethod: maui
+ paymentSubMethod: FictiousPointBankRemoteChange
+deployment_config: 
+ abcd: "http://chelgptsvs019:8082/fictiousPointBank/remote"
