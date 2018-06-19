@@ -4,6 +4,6 @@
 		"paymentSubMethod": "FictiousPointBankRemoteChange"
 	},
 	"deployment_config": {
-		"": "http://chelgptsvs019:8082/fictiousPointBank/remote"
+		"abcd": "http://chelgptsvs019:8082/fictiousPointBank/remote"
 	}
 }
