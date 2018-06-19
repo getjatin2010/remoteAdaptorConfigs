@@ -1,0 +1,17 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: config-service
+  cloud:
+    bus.amqp.enabled: false
+    config:
+      enabled: false
+      failFast: true
+      server:
+        prefix: /configs
+        git :
+          uri: https://bitbucket.org/[team]/[repo].git
+          username: [user]
+          password: [pass]
