@@ -1,9 +1,0 @@
-{
-	"sv_bank": {
-		"paymentMethod": "Points",
-		"paymentSubMethod": "FictiousPointBankRemoteChange"
-	},
-	"deployment_config": {
-		"": "http://chelgptsvs019:8082/fictiousPointBank/remote"
-	}
-}
